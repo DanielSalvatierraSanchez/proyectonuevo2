@@ -1,7 +1,5 @@
 import './style.css'
 
-const app = document.querySelector('#app')
-
 const h1 = document.createElement('h1')
 const h2 = document.createElement('h1')
 const h3 = document.createElement('h1')
